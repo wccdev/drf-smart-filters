@@ -6,7 +6,6 @@
 [![python](https://img.shields.io/pypi/pyversions/drf-smart-filters.svg)](https://pypi.org/project/drf-smart-filters/)
 [![Build Status](https://github.com/wccdev/drf-smart-filters/actions/workflows/ci.yml/badge.svg)](https://github.com/wccdev/drf-smart-filters/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/wccdev/drf-smart-filters/branch/main/graphs/badge.svg)](https://codecov.io/github/wccdev/drf-smart-filters)
-[![Built with Cookiecutter Pypackage](https://img.shields.io/badge/built%20with-Cookiecutter%20Pypackage-ff69b4.svg?logo=cookiecutter)](https://github.com/wccdev/cookiecutter-pypackage)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
